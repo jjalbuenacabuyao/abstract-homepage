@@ -253,6 +253,10 @@ footer {
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
+  .hero-container {
+    padding: 8rem 0;
+  }
+
   .features-container {
     max-width: 70vw;
   }
@@ -271,6 +275,10 @@ footer {
 }
 
 @media (min-width: 1024px) {
+  .hero-container {
+    padding: 8rem 0;
+  }
+
   .features-container {
     grid-template-columns: 1fr 1fr;
     align-items: center;
